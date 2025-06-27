@@ -1,0 +1,17 @@
+# Dependency folders
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Sensitive files
+.env
+
+# Logs
+*.log
+
+# System/IDE files
+.vscode/
+.DS_Store
+Thumbs.db
